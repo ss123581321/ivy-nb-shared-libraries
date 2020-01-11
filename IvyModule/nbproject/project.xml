@@ -194,6 +194,7 @@
                         <specification-version>8.8.1</specification-version>
                     </run-dependency>
                 </dependency>
+                <!--
                 <dependency>
                     <code-name-base>org.openide.util.ui</code-name-base>
                     <build-prerequisite/>
@@ -202,6 +203,7 @@
                         <specification-version>9.12.1</specification-version>
                     </run-dependency>
                 </dependency>
+                -->
                 <dependency>
                     <code-name-base>org.openide.windows</code-name-base>
                     <build-prerequisite/>
